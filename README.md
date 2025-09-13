@@ -7,7 +7,9 @@ I'm passionate about transforming raw data into meaningful insights and building
 ---
 
 ## 🚀 What I'm Working On
-- 📊 Building interactive dashboards with Power BI & Tableau
+- 📊 Building interactive dashboards with Power BI & Tableau<img width="1024" height="1024" alt="Copilot_20250913_133756" src="https://github.com/user-attachments/assets/4a5283e6-8947-4b0a-8c8a-d185ee5ea677" />
+<img width="1024" height="1024" alt="Copilot_20250913_133756" src="https://github.com/user-attachments/assets/ecae6159-8a74-464d-b781-2563137b14f7" />
+
 - 🧠 Solving optimization problems using dynamic programming
 
 
